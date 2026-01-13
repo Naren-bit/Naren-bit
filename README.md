@@ -52,8 +52,9 @@ I am a **Computer Science** student at **Amrita Vishwa Vidyapeetham** with a uni
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naren-bit&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naren-bit&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naren-bit&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naren-bit&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
 </div>
 
 <br/>
