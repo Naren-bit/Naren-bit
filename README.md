@@ -8,20 +8,27 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Securing+Digital+Infrastructures;Building+Scalable+Web+Apps;Fine-tuning+Vision+Transformers;Check+out+my+Portfolio+Below!&center=true&width=500&height=50&color=37bcf7">
 </a>
 
-<a href="https://naren-bit.github.io">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-naren--bit.github.io-blue?style=for-the-badge&logo=github&logoColor=white" height="40" />
-</a>
+<p>
+  <a href="https://naren-bit.github.io">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-naren--bit.github.io-blue?style=for-the-badge&logo=github&logoColor=white" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Naren-bit/Naren-bit/raw/main/CB.SC.U4.CSE.23637(7).pdf">
+    <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
+  </a>
+</p>
 
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a **Computer Science** student at **Amrita Vishwa Vidyapeetham** with a unique edge: I don't just build software; I break it to make it stronger.
-* 👨‍💻 **Experience:** Former Web App Hacking Intern at **NullClass** (Found critical Open Redirect bugs).
-* 🔭 **Current Focus:** Real-time Network Intrusion Detection & Vision Transformers.
+[cite_start]I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.57) [cite: 6, 7] with a unique edge: I don't just build software; I break it to make it stronger.
+
+* [cite_start]👨‍💻 **Internship:** Former Web Application Hacking Intern at **NullClass** (Found critical Open Redirect bugs)[cite: 13, 19].
+* [cite_start]🔭 **Current Focus:** Real-time Network Intrusion Detection & Vision Transformers[cite: 30, 27].
 * 🛠️ **Hackathons:** Active participant in Build2Break and EdTech tracks.
-* 📄 **Resume:** [View my Resume](https://naren-bit.github.io)
+* [cite_start]⚡ **LeetCode:** solving problems at [leetcode.com/u/_naren_18](https://leetcode.com/u/_naren_18/)[cite: 53].
 
 ---
 
@@ -44,17 +51,17 @@ I am a **Computer Science** student at **Amrita Vishwa Vidyapeetham** with a uni
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🛡️ Heimdall** | **Real-Time DDoS Detection System.** Uses a "Hybrid Mode" engine to cross-reference live IPs and mitigate attacks instantly. | `Python` `Scapy` `Linux` |
-| **👁️ AirCursor** | **AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy and <35ms latency. | `PyTorch` `ViT` `OpenCV` |
-| **💳 SkillVault** | **Time-Banking Platform.** Peer-to-peer skill sharing with real-time WebRTC video and AI transcription. | `MERN` `WebRTC` `Socket.io` |
+| **🛡️ Heimdall** | [cite_start]**Real-Time DDoS Detection.** Uses a "Hybrid Mode" engine to cross-reference live IPs and mitigate attacks instantly[cite: 30, 32]. | `Python` `Scapy` `Linux` |
+| **👁️ AirCursor** | [cite_start]**AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy and <35ms latency[cite: 27, 29]. | `PyTorch` `ViT` `OpenCV` |
+| **💳 SkillVault** | [cite_start]**Time-Banking Platform.** Peer-to-peer skill sharing with real-time WebRTC video and AI transcription[cite: 33, 34]. | `MERN` `WebRTC` `Socket.io` |
+| **🚁 Drone Routing** | [cite_start]**Path Optimization.** Handles static & moving obstacles using Quad Trees and A* search for 30% faster recalculations[cite: 23, 26]. | `DSA` `C++` `Quad Trees` |
 
 ---
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naren-bit&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naren-bit&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Naren-bit&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naren-bit&theme=tokyonight&hide_border=true" height="160" />
 </div>
 
 <br/>
@@ -63,5 +70,4 @@ I am a **Computer Science** student at **Amrita Vishwa Vidyapeetham** with a uni
 <p align="center">
 <a href="https://linkedin.com/in/naren-moorthy-ab3a29266/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:n4r4n15@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://leetcode.com/u/_naren_18/"><img src="https://img.shields.io/badge/LeetCode-Solve_Stats-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
