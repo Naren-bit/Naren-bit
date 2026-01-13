@@ -23,12 +23,12 @@
 ---
 
 ### 🚀 About Me
-[cite_start]I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.57) [cite: 6, 7] with a unique edge: I don't just build software; I break it to make it stronger.
+I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.57) with a unique edge: I don't just build software; I break it to make it stronger.
 
-* [cite_start]👨‍💻 **Internship:** Former Web Application Hacking Intern at **NullClass** (Found critical Open Redirect bugs)[cite: 13, 19].
-* [cite_start]🔭 **Current Focus:** Real-time Network Intrusion Detection & Vision Transformers[cite: 30, 27].
+* 👨‍💻 **Internship:** Former Web Application Hacking Intern at **NullClass** (Found critical Open Redirect bugs).
+* 🔭 **Current Focus:** Real-time Network Intrusion Detection & Vision Transformers.
 * 🛠️ **Hackathons:** Active participant in Build2Break and EdTech tracks.
-* [cite_start]⚡ **LeetCode:** solving problems at [leetcode.com/u/_naren_18](https://leetcode.com/u/_naren_18/)[cite: 53].
+* ⚡ **LeetCode:** solving problems at [leetcode.com/u/_naren_18](https://leetcode.com/u/_naren_18/).
 
 ---
 
@@ -51,10 +51,10 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **🛡️ Heimdall** | [cite_start]**Real-Time DDoS Detection.** Uses a "Hybrid Mode" engine to cross-reference live IPs and mitigate attacks instantly[cite: 30, 32]. | `Python` `Scapy` `Linux` |
-| **👁️ AirCursor** | [cite_start]**AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy and <35ms latency[cite: 27, 29]. | `PyTorch` `ViT` `OpenCV` |
-| **💳 SkillVault** | [cite_start]**Time-Banking Platform.** Peer-to-peer skill sharing with real-time WebRTC video and AI transcription[cite: 33, 34]. | `MERN` `WebRTC` `Socket.io` |
-| **🚁 Drone Routing** | [cite_start]**Path Optimization.** Handles static & moving obstacles using Quad Trees and A* search for 30% faster recalculations[cite: 23, 26]. | `DSA` `C++` `Quad Trees` |
+| **🛡️ Heimdall** | **Real-Time DDoS Detection.** Uses a "Hybrid Mode" engine to cross-reference live IPs and mitigate attacks instantly. | `Python` `Scapy` `Linux` |
+| **👁️ AirCursor** | **AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy and <35ms latency. | `PyTorch` `ViT` `OpenCV` |
+| **💳 SkillVault** | **Time-Banking Platform.** Peer-to-peer skill sharing with real-time WebRTC video and AI transcription. | `MERN` `WebRTC` `Socket.io` |
+| **🚁 Drone Routing** | **Path Optimization.** Handles static & moving obstacles using Quad Trees and A* search for 30% faster recalculations. | `DSA` `C++` `Quad Trees` |
 
 ---
 
