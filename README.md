@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-naren--bit.github.io-blue?style=for-the-badge&logo=github&logoColor=white" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Naren-bit/Naren-bit/raw/main/CB.SC.U4CSE23637 (2)">
+  <a href="https://github.com/Naren-bit/Naren-bit/raw/main/CB.SC.U4CSE23637 (2).pdf">
     <img src="https://img.shields.io/badge/📄_Download_Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" height="40" />
   </a>
 </p>
