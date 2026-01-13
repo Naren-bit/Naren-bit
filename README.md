@@ -5,7 +5,7 @@
 ### 🛡️ Cybersecurity Analyst | 💻 Full Stack Developer | 🧠 AI Enthusiast
 
 <a href="https://naren-bit.github.io">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Securing+Digital+Infrastructures;Building+Scalable+Web+Apps;Fine-tuning+Vision+Transformers;Check+out+my+Portfolio+Below!&center=true&width=500&height=50&color=37bcf7">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Securing+Digital+Infrastructures;Building+Scalable+Web+Apps;Check+out+my+Portfolio+Below!&center=true&width=500&height=50&color=37bcf7">
 </a>
 
 <p>
