@@ -51,8 +51,12 @@ I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.57) wi
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| **🕵️ DeepVerify** | **Zero-Trust Gateway.** Multi-modal forensic engine detecting interview deepfakes in real-time via PRNU and rPPG. | `Python` `FastAPI` `MediaPipe` |
+| **🏟️ VenueIQ** | **Smart Stadium AI.** Real-time crowd intelligence system with AI section-aware routing and queue density analysis. | `Gemini AI` `Socket.IO` `PWA` |
+| **📈 Zorvyn Finance** | **Finance Dashboard API.** Features RBAC, JWT rotation, soft-deletes, and real-time analytics. | `TypeScript` `Prisma` `Node.js` |
 | **🛡️ Heimdall** | **Real-Time DDoS Detection.** Uses a "Hybrid Mode" engine to cross-reference live IPs and mitigate attacks instantly. | `Python` `Scapy` `Linux` |
-| **👁️ AirCursor** | **AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy and <35ms latency. | `PyTorch` `ViT` `OpenCV` |
+| **💼 CareerForge** | **AI Placement Analytics.** Autonomous AI system for university placements with predictive gap analysis. | `Next.js` `MongoDB` `Groq` |
+| **👁️ AirCursor** | **AI Gesture Control.** A virtual mouse using a fine-tuned Vision Transformer (ViT) with 98% accuracy. | `PyTorch` `ViT` `OpenCV` |
 | **💳 SkillVault** | **Time-Banking Platform.** Peer-to-peer skill sharing with real-time WebRTC video and AI transcription. | `MERN` `WebRTC` `Socket.io` |
 | **🚁 Drone Routing** | **Path Optimization.** Handles static & moving obstacles using Quad Trees and A* search for 30% faster recalculations. | `DSA` `C++` `Quad Trees` |
 
