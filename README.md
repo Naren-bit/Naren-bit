@@ -23,7 +23,7 @@
 ---
 
 ### 🚀 About Me
-I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.57) with a unique edge: I don't just build software; I break it to make it stronger.
+I am a Computer Science student at **Amrita Vishwa Vidyapeetham** (CGPA 8.55) with a unique edge: I don't just build software; I break it to make it stronger.
 
 * 👨‍💻 **Internship:** Former Web Application Hacking Intern at **NullClass** (Found critical Open Redirect bugs).
 * 🔭 **Current Focus:** Real-time Network Intrusion Detection & Vision Transformers.
